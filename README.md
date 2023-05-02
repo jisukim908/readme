@@ -1,3 +1,7 @@
+안녕하세요. README를 작성할 때 참고하면 좋을 마크다운 문법 설명입니다. 
+Hello. This is a Markdown description to refer to when writing a README.
+
+
 # fontsize
 # 가장큰 크기 the biggist size
 ## 그다음 작은 크기
@@ -11,7 +15,7 @@
 
 ***
 
-# 구분선
+# 구분선 division line
 구분선은 ----- 또는 ****으로 할 수 있다.
 
 ----------
@@ -36,7 +40,7 @@ print("Hello")
 
 ---------
 
-# 글머리 기호
+# 글머리 기호 bullet point
 - 글머리 1
   - 글머리 2
  
@@ -57,7 +61,7 @@ My TIL link is <https://developer908.tistory.com/86>
 
 ---------
 
-# 사진 붙이기
+# 사진 붙이기 paste photo
 ## method 1
 ![itsme](https://user-images.githubusercontent.com/126075796/235580210-895b9d1f-fd5d-4cde-b57b-6a53b3895cf3.jpg)
 
