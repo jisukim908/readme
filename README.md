@@ -47,3 +47,14 @@ print("Hello")
 # 숫자
 1. 숫자는 이렇게
 2. 사용할 수 있어요!
+
+---------
+
+# 사진 붙이기
+## method 1
+
+![itsme](https://user-images.githubusercontent.com/126075796/235580210-895b9d1f-fd5d-4cde-b57b-6a53b3895cf3.jpg)
+
+
+## method 2
+<img width="80" src="https://user-images.githubusercontent.com/126075796/235580210-895b9d1f-fd5d-4cde-b57b-6a53b3895cf3.jpg"/>
