@@ -5,12 +5,14 @@
 #### 그다음 작은 크기
 ##### 그다음 작은 크기
 ###### 가장 작은 크기 the smallest size
-####### 지원안됨
+####### 6개 이상부터는 지원안됨
 
 ----------
 
+***
+
 # 구분선
-구분선은 ----------으로 할 수 있다.
+구분선은 ----- 또는 ****으로 할 수 있다.
 
 ----------
 
@@ -24,7 +26,7 @@
 print("Hello")
 ```
 
---------
+***
 
 # BlackQuote
 > BlockQuote
@@ -44,15 +46,21 @@ print("Hello")
 * 글머리 5
   * 글머리 6
 
-# 숫자
-1. 숫자는 이렇게
-2. 사용할 수 있어요!
+# 순서 indexing
+1. 순서 인덱싱은 이렇게
+2. 사용할 수 있다!
+
+***
+
+# 하이퍼링크 hyperlink
+My TIL link is <https://developer908.tistory.com/86>
 
 ---------
 
 # 사진 붙이기
 ## method 1
 ![itsme](https://user-images.githubusercontent.com/126075796/235580210-895b9d1f-fd5d-4cde-b57b-6a53b3895cf3.jpg)
+
 
 ## method 2
 <img width="70%" src="https://user-images.githubusercontent.com/126075796/235580210-895b9d1f-fd5d-4cde-b57b-6a53b3895cf3.jpg"/>
