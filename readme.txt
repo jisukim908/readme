@@ -1,9 +1,3 @@
-안녕하세요. README를 작성할 때 참고하면 좋을 마크다운 문법 설명입니다. 
-
-
-Hello. This is a Markdown description to refer to when writing a README.
-
-
 # fontsize
 # 가장큰 크기 the biggist size
 ## 그다음 작은 크기
