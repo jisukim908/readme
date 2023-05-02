@@ -57,4 +57,4 @@ print("Hello")
 
 
 ## method 2
-<img width="100" src="https://user-images.githubusercontent.com/126075796/235580210-895b9d1f-fd5d-4cde-b57b-6a53b3895cf3.jpg"/>
+<img width="80%" src="https://user-images.githubusercontent.com/126075796/235580210-895b9d1f-fd5d-4cde-b57b-6a53b3895cf3.jpg"/>
