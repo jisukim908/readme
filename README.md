@@ -11,7 +11,7 @@ Hello. This is a Markdown description to refer to when writing a README.
 #### 그다음 작은 크기
 ##### 그다음 작은 크기
 ###### 가장 작은 크기 the smallest size
-####### 6개 이상부터는 지원안됨
+####### 6개 초과하면 지원안됨 6개까지 가능하다. Only up to 6 are possible
 
 ----------
 
